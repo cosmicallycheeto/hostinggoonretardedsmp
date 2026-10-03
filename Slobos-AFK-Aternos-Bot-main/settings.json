@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Chud",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "AFKChud",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "retardedsmp-1Zf9.aternos.me",
+    "port": 42684,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm a chud",
+        "I'm gay for cosmic",
+        "Feed me"
       ]
     },
     "chat-log": true,
